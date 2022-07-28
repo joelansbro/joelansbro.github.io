@@ -75,6 +75,6 @@ There are several other minerals that are used by plants, however these are requ
 If you've found this article interesting and would like to read more, I recommend the following websites:
 
 ### References
-- [CropNutrition](www.cropnutrition.com/)
+- [CropNutrition](https://www.cropnutrition.com//)
 - [Botany for Gardeners](https://shop.rhs.org.uk/books/general-gardening/beginners-guides/rhs-botany-for-gardeners)
 - [The Machinery of Life](https://link.springer.com/book/10.1007/978-0-387-84925-6)
