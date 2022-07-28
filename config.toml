@@ -1,0 +1,4 @@
+baseURL = 'https://joelansbro.github.io'
+languageCode = 'en-us'
+title = 'Joel Ansbro'
+theme = "hugo-PaperMod"
