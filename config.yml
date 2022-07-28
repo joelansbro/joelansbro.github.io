@@ -1,0 +1,15 @@
+baseURL: https://joelansbro.github.io
+languageCode: en-us
+title: Joel Ansbro
+theme: hugo-PaperMod
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about
+      weight: 10
+    - identifier: Github
+      name: Github
+      url: https://github.com/joelansbro
+      weight: 20
